@@ -13,7 +13,7 @@ I also performed the same commands using SQL [here].
 # Data Structure and Validation
 The data was cleaned to fix text inconsistencies as well as create several new columns to be used in calculation.
 
-<img src="/assets/entity_diagram.png width="600">
+<img src="/assets/entity_diagram.png" width="600">
 # Executive Summary
 
 In order to pinpoint which MG products were performing poorly and which were performing well, we first needed to decide on key metrics for evaluation.
