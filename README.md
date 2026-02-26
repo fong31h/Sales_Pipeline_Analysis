@@ -11,6 +11,7 @@ You can see the dashboard I created using Excel [here].
 I also performed the same commands using SQL [here].
 
 # Data Structure and Validation
+The data was cleaned to fix text inconsistencies as well as create several new columns to be used in calculation.
 
 
 # Executive Summary
