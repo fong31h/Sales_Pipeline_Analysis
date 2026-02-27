@@ -6,7 +6,7 @@ In this project, I analyzed product performance through a variety of lenses for 
 The company MG asked its analysts to perform a product performance analysis to find which products were performing poorly and possible solutions.
 Below are the results.
 
-You can see the dashboard I created using Excel [(https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Ffong31h%2FMG-Product-Performance-Analysis%2Frefs%2Fheads%2Fmain%2FMG%2520Sales%2520Pipeline%2520Analysis.xlsx&wdOrigin=BROWSELINK)].
+You can see the dashboard I created using Excel [here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Ffong31h%2FMG-Product-Performance-Analysis%2Frefs%2Fheads%2Fmain%2FMG%2520Sales%2520Pipeline%2520Analysis.xlsx&wdOrigin=BROWSELINK).
 
 I also performed the same commands using SQL [here].
 
