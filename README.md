@@ -1,4 +1,4 @@
-# Sales_Pipeline_Analysis
+# MG Product Performance Analysis
 
 
 In this project, I analyzed product performance through a variety of lenses for a Sales Pipeline using Excel.
