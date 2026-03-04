@@ -8,7 +8,7 @@ Below are the results.
 
 You can see the dashboard I created using Excel [here](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Ffong31h%2FMG-Product-Performance-Analysis%2Frefs%2Fheads%2Fmain%2FMG%2520Sales%2520Pipeline%2520Analysis.xlsx&wdOrigin=BROWSELINK).
 
-I also performed the same commands using SQL [here].
+I also performed the same commands using SQL [here](https://github.com/fong31h/MG-Product-Performance-Analysis/blob/main/Product%20Performance%20SQL%20Queries.sql).
 
 # Data Structure and Validation
 The data was cleaned to fix text inconsistencies as well as create several new columns to be used in calculation.
